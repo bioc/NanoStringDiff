@@ -8,11 +8,7 @@ LinkingTo: Rcpp
 Depends: Biobase
 Suggests: testthat, BiocStyle
 Author: hong wang <hong.wang@uky.edu>, tingting zhai <tingting.zhai@uky.edu>, chi wang <chi.wang@uky.edu>
-<<<<<<< HEAD
 Maintainer:tingting zhai <tingting.zhai@uky.edu>,hong wang <hong.wang@uky.edu>
-=======
-Maintainer: hong wang <hong.wang@uky.edu>
->>>>>>> origin/RELEASE_3_6
 Description: This Package utilizes a generalized linear model(GLM) of
         the negative binomial family to characterize count data and
         allows for multi-factor design. NanoStrongDiff incorporate size
